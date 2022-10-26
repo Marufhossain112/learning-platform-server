@@ -1,7 +1,7 @@
 [
   {
     "id": "01",
-    "name": "Ruby",
+    "name": "Ruby Full Course",
     "heading": "Ruby is an interpreted, high-level, general-purpose programming language ",
     "price": 50,
     "features": [
@@ -16,7 +16,7 @@
   },
   {
     "id": "02",
-    "name": "C#",
+    "name": "C# beginners to advance",
     "img": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
     "desc": "C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps.C# is an object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. At its core, C# is an object-oriented language. You define types and their behavior.",
     "heading": "C# is a modern, object-oriented, and type-safe programming language.",
@@ -34,7 +34,7 @@
   },
   {
     "id": "03",
-    "name": "Python",
+    "name": "Python zero to hero",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
     "desc": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.",
     "heading": "Python is a popular general-purpose programming language. It is used in machine learning",
@@ -52,7 +52,7 @@
   },
   {
     "id": "04",
-    "name": "PHP",
+    "name": "PHP fundamentals",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
     "desc": "PHP is a widely-used, open source scripting language · PHP scripts are executed on the server ·PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites.It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.PHP is pleasingly zippy in its execution, especially when compiled as an Apache module on the Unix side. The MySQL server, once started, executes even very complex queries with huge result sets in record-setting time.",
     "heading": "PHP is a server side scripting language that is embedded in HTML",
@@ -69,7 +69,7 @@
   },
   {
     "id": "05",
-    "name": "Kotlin",
+    "name": "Kotlin pros",
     "img": "https://kotlinlang.org/assets/images/twitter/general.png",
     "desc": "If you’re looking to build an Android app, we highly recommend starting with Kotlin. Take advantage of its best-in-class features. Many developers already enjoy using Kotlin. Mature language. Multiplatform. Online courses. Code safely. Easy to learn. Big community. Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.",
     "price": 90,
@@ -87,7 +87,7 @@
   },
   {
     "id": "06",
-    "name": "Java",
+    "name": "Java from A to Z",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
     "desc": "Java is a powerful general-purpose programming language.It is used to develop desktop and mobile applications, big data processing, embedded system. Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.) It is one of the most popular programming language in the world.It has a large demand in the current job market.It is easy to learn and simple to use.It is open-source and free.It is secure, fast and powerful.It has a huge community support (tens of millions of developers).Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs.As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa",
     "heading": "The Java™ Programming Language is a general-purpose, concurrent, strongly typed, class-based object-oriented language",
