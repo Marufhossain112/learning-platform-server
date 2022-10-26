@@ -32,13 +32,13 @@
     "name": "Kotlin",
     "price": 90,
     "img": "https://kotlinlang.org/assets/images/twitter/general.png",
-    "intro": "If you’re looking to build an Android app, we highly recommend starting with Kotlin. "
+    "intro": "Kotlin is a modern language used by over 60% developers. "
   },
   {
     "id": "06",
     "name": "Java",
     "price": 75,
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
-    "intro": "Java is a powerful general-purpose programming language. "
+    "intro": "Java is a  general-purpose programming language. "
   }
 ]
