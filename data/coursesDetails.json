@@ -1,0 +1,100 @@
+[
+  {
+    "id": "01",
+    "name": "Ruby",
+    "heading": "Ruby is an interpreted, high-level, general-purpose programming language ",
+    "features": [
+      "Ruby is an open-source",
+      "It is a general-purpose",
+      "interpreted programming language",
+      " It is a true object-oriented programming language",
+      "It is a server-side scripting language similar to Python and PERL."
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png",
+    "intro": "A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to use."
+  },
+  {
+    "id": "02",
+    "name": "C#",
+    "img": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
+    "intro": "C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps.",
+    "heading": "C# is a modern, object-oriented, and type-safe programming language.",
+    "features": [
+      "Simple",
+      "Modern programming language",
+      "Object oriented",
+      "Type safe",
+      "Interoperability",
+      "Scalable and Updateable",
+      "Component oriented",
+      "Structured programming language"
+    ]
+  },
+  {
+    "id": "03",
+    "name": "Python",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+    "intro": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields.",
+    "heading": "Python is a popular general-purpose programming language. It is used in machine learning",
+    "features": [
+      "Free and Open Source",
+      "Easy to code",
+      "Easy to Read",
+      "Object-Oriented Language",
+      "GUI Programming Support",
+      "High-Level Language",
+      "Extensible feature",
+      "Easy to Debug"
+    ]
+  },
+  {
+    "id": "04",
+    "name": "PHP",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+    "intro": "PHP is a widely-used, open source scripting language · PHP scripts are executed on the server · PHP is free.",
+    "heading": "PHP is a server side scripting language that is embedded in HTML",
+    "features": [
+      "PHP can generate dynamic page content",
+      "PHP can create, open, read, write, delete, and close files on the server",
+      "PHP can collect form data",
+      "PHP can send and receive cookies",
+      "PHP can add, delete, modify data in your database",
+      "PHP can be used to control user-access",
+      "PHP can encrypt data"
+    ]
+  },
+  {
+    "id": "05",
+    "name": "Kotlin",
+    "img": "https://kotlinlang.org/assets/images/twitter/general.png",
+    "intro": "If you’re looking to build an Android app, we highly recommend starting with Kotlin. Take advantage of its best-in-class features. Many developers already enjoy using Kotlin. Mature language. Multiplatform. Online courses. Code safely. Easy to learn. Big community.",
+    "heading": "A modern programming language that makes developers happier.",
+    "features": [
+      "Clean, compact syntax",
+      "Single type system (almost)",
+      "Null safety",
+      "Functions and functional programming",
+      "Data classes",
+      "Extensions",
+      "Operator overloading",
+      "Top-level objects and the Singleton pattern"
+    ]
+  },
+  {
+    "id": "06",
+    "name": "Java",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+    "intro": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded system.",
+    "heading": "The Java™ Programming Language is a general-purpose, concurrent, strongly typed, class-based object-oriented language",
+    "features": [
+      "Object Oriented. In Java, everything is an Object",
+      "Platform Independent",
+      "Simple",
+      "Secure",
+      "Architecture-neutral",
+      "Portable",
+      "Robust",
+      "Multithreaded"
+    ]
+  }
+]
