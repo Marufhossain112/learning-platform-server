@@ -2,37 +2,43 @@
   {
     "id": "01",
     "name": "Ruby",
+    "price": 50,
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png",
-    "intro": "A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to use."
+    "intro": "A dynamic programming language with a focus on simplicity ."
   },
   {
     "id": "02",
     "name": "C#",
+    "price": 80,
     "img": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
-    "intro": "C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps."
+    "intro": "C# (C-Sharp) is a programming language developed by Microsoft."
   },
   {
     "id": "03",
     "name": "Python",
+    "price": 70,
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
-    "intro": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields."
+    "intro": "Python is a popular general-purpose programming language. "
   },
   {
     "id": "04",
     "name": "PHP",
+    "price": 65,
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
-    "intro": "PHP is a widely-used, open source scripting language · PHP scripts are executed on the server · PHP is free."
+    "intro": "PHP is a widely-used, open source scripting language · "
   },
   {
     "id": "05",
     "name": "Kotlin",
+    "price": 90,
     "img": "https://kotlinlang.org/assets/images/twitter/general.png",
-    "intro": "If you’re looking to build an Android app, we highly recommend starting with Kotlin. Take advantage of its best-in-class features. Many developers already enjoy using Kotlin. Mature language. Multiplatform. Online courses. Code safely. Easy to learn. Big community."
+    "intro": "If you’re looking to build an Android app, we highly recommend starting with Kotlin. "
   },
   {
     "id": "06",
     "name": "Java",
+    "price": 75,
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
-    "intro": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded system."
+    "intro": "Java is a powerful general-purpose programming language. "
   }
 ]
