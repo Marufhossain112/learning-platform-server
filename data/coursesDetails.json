@@ -3,7 +3,7 @@
     "id": "01",
     "name": "Ruby",
     "headline": "Ruby Full Course",
-    "heading": "Ruby is an interpreted, high-level, general-purpose programming language ",
+    "heading": "Ruby is an interpreted, high-level programming language ",
     "price": 50,
     "features": [
       "Ruby is an open-source",
@@ -21,7 +21,7 @@
     "headline": "C# beginners to advance",
     "img": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
     "desc": "C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps.C# is an object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. At its core, C# is an object-oriented language. You define types and their behavior.",
-    "heading": "C# is a modern, object-oriented, and type-safe programming language.",
+    "heading": "C# is a modern, object-oriented, and type-safe language.",
     "price": 80,
     "features": [
       "Simple",
@@ -40,7 +40,7 @@
     "headline": "Python zero to hero",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
     "desc": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.",
-    "heading": "Python is a popular general-purpose programming language. It is used in machine learning",
+    "heading": "Python is a popular programming language used in machine learning",
     "price": 70,
     "features": [
       "Free and Open Source",
